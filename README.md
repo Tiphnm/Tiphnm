@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Tiphaine and I am a brand new developer. After a couple of years I decided to start a new adventure and start learning about coding. I began a cursus at the beginning of the 2021 years and already worked on a few project. Come take a look at them
 <!--
 **Tiphnm/Tiphnm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
