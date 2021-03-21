@@ -2,8 +2,9 @@
 
 My name is **Tiphaine** and I am a brand new developer. After a few of years in marketing I decided to start a new adventure and start learning about coding. I began a cursus at the beginning of 2021 at **Simplon** and already worked on a few project. **Come take a look!** 
 
-- 🌱 I’m currently learning: Pyhton, JavaScript, Docker, SQL 
-- 📫 How to reach me: https://www.linkedin.com/in/tiphaine-minguet-1a13ab125/
+- 🌱  I’m currently learning the following languages: Pyhton, JavaScript, SQL
+- 🔧  I'm currently lerarning to use the follwing tools: Microsoft Azure, Docker, GitHub 
+- 📫  How to reach me: https://www.linkedin.com/in/tiphaine-minguet-1a13ab125/
 
 <!--
 **Tiphnm/Tiphnm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
