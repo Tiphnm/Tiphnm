@@ -4,7 +4,7 @@ My name is **Tiphaine** and I am a brand new developer.
 After a few years in marketing I decided to join a new adventure and start learning about coding. I began a cursus at the beginning of 2021 at **Simplon** and already worked on a few project. **Come take a look!** 
 
 - 🌱  I’m currently learning the following languages: **Python**, **JavaScript**, **SQL**
-- 🔧  I'm currently learning to use the follwing tools: **Microsoft Azure**, **Docker**, **GitHub** 
+- 🔧  I'm currently learning to use the following tools: **Microsoft Azure**, **Docker**, **GitHub** 
 - 📫  You can find me on : [LinkedIn](https://www.linkedin.com/in/tiphaine-minguet-1a13ab125/)
 
 <!--
