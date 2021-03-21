@@ -7,6 +7,8 @@ After a few years in marketing I decided to join a new adventure and start learn
 - 🔧  I'm currently learning to use the following tools: **Microsoft Azure**, **Docker**, **GitHub** 
 - 📫  You can find me on : [LinkedIn](https://www.linkedin.com/in/tiphaine-minguet-1a13ab125/)
 
+Your advices and comments on my work are more than welcome ! 
+
 <!--
 **Tiphnm/Tiphnm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
