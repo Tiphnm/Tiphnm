@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is **Tiphaine** and I am a brand new developer. 
-After a few of years in marketing I decided to start a new adventure and start learning about coding. I began a cursus at the beginning of 2021 at **Simplon** and already worked on a few project. **Come take a look!** 
+After a few years in marketing I decided to join a new adventure and start learning about coding. I began a cursus at the beginning of 2021 at **Simplon** and already worked on a few project. **Come take a look!** 
 
 - 🌱  I’m currently learning the following languages: Pyhton, JavaScript, SQL
 - 🔧  I'm currently learning to use the follwing tools: Microsoft Azure, Docker, GitHub 
